@@ -8,4 +8,4 @@ Run the Code:
 Open the code files in your preferred IDE or text editor.
 Follow any instructions provided in the README.md file of each lab to run the code and observe the outputs.<br>
 <b>Author :</b>
-This repository is maintained by Muhammad Irtaza Ali, a student at Aror University, as part of the coursework in Data Structures and Algorithms.
+This repository is maintained by Muhammad Irtaza Ali, as part of the coursework in Data Structures and Algorithms.
